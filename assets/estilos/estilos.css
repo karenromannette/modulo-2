@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(13, 71, 71);
+}
+
+form{
+    background-color: rgb(24, 148, 148);
+    border: solid 1px black;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+form input{
+
+    margin: auto;
+}
+
+form button{
+    margin: auto;
+    align-items: center;
+}
+
+.casilla {
+     border: 1px solid gray;
+     background-color: white;
+     align-items: center;
+     margin:auto;
+     padding-top: 10px;
+}
